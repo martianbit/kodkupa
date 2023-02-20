@@ -1,0 +1,5 @@
+*.txt
+*.pdf
+v*.cpp
+median/main
+
